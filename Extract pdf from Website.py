@@ -85,18 +85,20 @@ def extract_url_pdf(input_url,folder_path=os.getcwd()):
 # In[5]:
 
 
-extract_url_pdf(input_url="https://www.icai.org/post.html?post_id=17843")
+extract_url_pdf(input_url="https://fin.assam.gov.in/assamfinance/secure/getCreatedGIABills")
 
 
 # In[6]:
 
 
-extract_url_pdf(input_url="https://cbic-gst.gov.in/central-tax-notifications.html")
 
-# https://cbic-gst.gov.in/central-tax-notifications.html
+extract_url_pdf(input_url="https://fin.assam.gov.in/assamfinance/secure/getCreatedGIABills")
 
 
-# In[ ]:
+
+
+
+# In[ ]:https://fin.assam.gov.in/assamfinance/secure/getCreatedGIABills
 
 
 
